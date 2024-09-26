@@ -1,0 +1,19 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1 {
+    font-weight: 800;
+    color: rgba(221, 29, 29, 0.988);
+    font-size: 70px;
+    text-align: center;
+}
+
+a {
+    font-size: 40px;
+    color: blue;
+    text-decoration: none;
+}
+li {
+    list-style-type: none;
+    line-height: 1.5;
+}
